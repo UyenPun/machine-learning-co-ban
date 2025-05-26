@@ -1,0 +1,8 @@
+# Bỏ qua tất cả file CSV
+*.csv
+
+# Bỏ qua tất cả file ZIP
+*.zip
+
+# Bỏ qua toàn bộ thư mục dataset
+dataset/
